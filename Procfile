@@ -1,1 +1,1 @@
-web: vendor/bin/heroku-php-apache2
+web-production-5b154.up.railway.app
