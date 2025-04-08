@@ -1,5 +1,5 @@
 <?php
-// List of valid HWIDs (add these manually as users purchase your loader)
+// List of valid HWIDs (add these manually as users send them to you)
 $valid_hwids = [
     "examplehwid1234567890abcdef12345678", // Replace with real HWIDs
     "anotherhwidabcdef1234567890abcdef12"
